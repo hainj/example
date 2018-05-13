@@ -1,0 +1,10 @@
+package
+servlet - všechny servlety
+validate - třída pro validaci
+safety -  hashovani hesla, generovani sekvencí znaků
+listener - třída listener pro inicializace a destrukci proměnných při spuštění
+generate - nevyužitá třídal sloužila při testování pro vytváření dat
+filter - filtry pro přihlášení, transakce atd.
+email - posílání emailu a texty zpráv
+data - entity třídy pro jpa a normální třídy pro jdbc
+dao - jdbc a jpa dao
